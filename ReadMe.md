@@ -1,6 +1,6 @@
 # **Download**
 > * [**Stable Version**](https://github.com/Wh4i/SM-DamageManagement/releases)
-> * [**Developper Version (only latest)**](https://github.com/Wh4i/SM-DamageManagement/archive/master.zip)
+> * [**Developpement Version (only latest)**](https://github.com/Wh4i/SM-DamageManagement/archive/master.zip)
 # **Informations**
 > * [**Wiki**](https://github.com/Wh4i/SM-DamageManagement/wiki)
 >   * [**Commands**](https://github.com/Wh4i/SM-DamageManagement/wiki/Commands)
