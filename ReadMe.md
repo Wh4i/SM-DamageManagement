@@ -9,3 +9,5 @@
 >   * [**Changelog**](https://github.com/Wh4i/SM-DamageManagement/wiki/Changelog)
 
 # [**Alliedmodders Thread**](https://forums.alliedmods.net/showthread.php?t=311965)
+
+This sourcemod plugin is about managing the damage players do or receive, you can multiply, add or the opposite.
